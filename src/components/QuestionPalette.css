@@ -1,0 +1,69 @@
+
+.hex-shape {
+  clip-path: polygon(
+    25% 0%, 75% 0%,
+    100% 50%,
+    75% 100%, 25% 100%,
+    0% 50%
+  );
+}
+
+
+.square-shape {
+  border-radius: 0;
+}
+
+
+
+/* .palette-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-size: 15px;
+  font-family: Arial, Verdana, sans-serif;
+  font-weight: bold;
+  margin: 2px;
+  border: 1.2px solid #bfc0c0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+  cursor: pointer;
+}
+.palette-current {
+  border: 2.2px solid #222 !important;
+}
+.palette-not-visited {
+  background: #e0e0e0;
+  color: #333;
+}
+.palette-not-answered {
+  background: #fd5c63;
+  color: #fff;
+}
+.palette-answered {
+  background: #48bb78;
+  color: #fff;
+}
+.palette-review {
+  background: #6b47dc;
+  color: #fff;
+}
+.palette-answered-review {
+  background: #7c3aed;
+  color: #fff;
+  border: 2px solid #48bb78 !important;
+}
+
+.palette-legend-dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 7px;
+  vertical-align: middle;
+}
+.palette-legend-row {
+  margin-bottom: 3px;
+  font-size: 12px;
+} */

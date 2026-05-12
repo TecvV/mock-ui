@@ -1,0 +1,17 @@
+node_modules/
+build/
+release/
+Share/
+
+*.log
+*.out
+*.err
+
+.env
+.env.*
+
+dist/
+coverage/
+
+Thumbs.db
+.DS_Store
